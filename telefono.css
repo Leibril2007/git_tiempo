@@ -1,0 +1,8 @@
+@media screen and (max-width: 375px) {
+    th, td {
+        padding: 10px 5px; /* Ajuste de espaciado para dispositivos móviles */
+    }
+    h2 {
+        padding: 15px; /* Ajuste de espaciado para dispositivos móviles */
+    }
+}
