@@ -1,0 +1,11 @@
+footer {
+    padding: 5rem;
+    background-color: rgb(19, 66, 153);
+}
+
+h1 {
+    background-color: azure;
+    font-size: 3rem;
+    border: 2px solid black;
+    text-align: center;
+}
