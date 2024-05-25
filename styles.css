@@ -21,7 +21,9 @@ h2 {
     border-top-right-radius: 8px;
 }
 table {
-    width: 100%;
+    
+    margin: 90px auto;
+    width: 80%;
     border-collapse: collapse;
 }
 th, td {
